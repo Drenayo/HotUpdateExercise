@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1673232496
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc95a56e416b34b010c37c0470e1068a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f9f1169d32e36519fdd5a6c27c74de4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Prefab/Cube.prefab
+- Assets/Art/Prefab/Capsule.prefab
+- Assets/Art/Prefab/Sphere.prefab
+- Assets/Art/Prefab/Cylinder.prefab
+Dependencies:
+- "E:/Unity Pro/\u8D44\u6E90\u7BA1\u7406\u4E0E\u70ED\u66F4_19/Assets/Art/AB/PC/material"
