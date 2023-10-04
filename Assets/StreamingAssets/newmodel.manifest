@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1673232496
+CRC: 2539423147
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1e1839a70dd04a382b701a67e5330ae9
+    Hash: 5e792d2f21f518f1aaae19eb49d89469
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8f9f1169d32e36519fdd5a6c27c74de4
+    Hash: 92e2b943c94f32471afb206e8a71581a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -21,16 +21,13 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
 - Class: 65
   Script: {instanceID: 0}
-- Class: 135
-  Script: {instanceID: 0}
-- Class: 136
+- Class: 137
   Script: {instanceID: 0}
 Assets:
-- Assets/Art/Prefab/Cube.prefab
-- Assets/Art/Prefab/Capsule.prefab
-- Assets/Art/Prefab/Sphere.prefab
-- Assets/Art/Prefab/Cylinder.prefab
-Dependencies:
-- E:/Ud_Unity/U3D Pro/HotUpdateExercise/Assets/Art/AB/PC/material
+- Assets/Art/NewAB/Cube.prefab
+- Assets/Art/Prefab/Y Bot.prefab
+Dependencies: []
